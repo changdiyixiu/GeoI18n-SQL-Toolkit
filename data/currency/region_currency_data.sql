@@ -2,11 +2,12 @@
 -- 数据表: region_currency_data
 -- 数据来源: https://docs.paykka.com/zh-hans/payments/docs/developer-resources/currency_fraction_digits、https://en.wikipedia.org/wiki/ISO_4217
 -- 共 250 条记录
+-- git地址：https://github.com/changdiyixiu/GeoI18n-SQL-Toolkit
 -- ====================================================
 
 CREATE TABLE IF NOT EXISTS `region_currency_data` (
     `iso2` CHAR(2) NOT NULL COMMENT 'ISO 3166-1 alpha-2 国家代码',
-    `currency_code` CHAR(3) NOT NULL COMMENT 'ISO 4217 货币代码',
+    `currency_code` VARCHAR(20) NOT NULL COMMENT 'ISO 4217 货币代码',
     `native_currency_name` VARCHAR(200) COMMENT '货币原生英文名',
     `currency_zh_name` VARCHAR(100) COMMENT '货币中文名',
     `currency_en_name` VARCHAR(200) COMMENT '货币英文名',
@@ -15,7 +16,7 @@ CREATE TABLE IF NOT EXISTS `region_currency_data` (
     `decimal_place` TINYINT COMMENT '小数位数',
     `thousand_separator` CHAR(1) COMMENT '千分位分隔符',
     `decimal_separator` CHAR(1) COMMENT '小数点分隔符',
-    PRIMARY KEY (`iso2, currency_code`),
+    PRIMARY KEY (`iso2`, `currency_code`),
     KEY (`currency_code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 

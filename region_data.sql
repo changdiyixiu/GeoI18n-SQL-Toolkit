@@ -2,6 +2,7 @@
 -- 数据表: region_data
 -- 数据来源: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2、https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3、https://docs.paykka.com/zh-hans/payments/docs/developer-resources/currency_fraction_digits、https://en.wikipedia.org/wiki/Currency_symbol、https://en.wikipedia.org/wiki/ISO_4217
 -- 共 240 条记录
+-- git地址：https://github.com/changdiyixiu/GeoI18n-SQL-Toolkit
 -- ====================================================
 
 CREATE TABLE IF NOT EXISTS `region_data` (
@@ -19,7 +20,7 @@ CREATE TABLE IF NOT EXISTS `region_data` (
     `capital` VARCHAR(100) COMMENT '首都',
     `tld` VARCHAR(20) COMMENT '顶级域名',
     `flag_emoji` VARCHAR(20) COMMENT '国旗 Emoji',
-    `currency_code` CHAR(3) COMMENT 'ISO 4217 货币代码',
+    `currency_code` VARCHAR(20) COMMENT 'ISO 4217 货币代码',
     `currency_zh_name` VARCHAR(100) COMMENT '货币中文名',
     `currency_en_name` VARCHAR(200) COMMENT '货币英文名',
     `currency_symbol` VARCHAR(20) COMMENT '货币符号',
