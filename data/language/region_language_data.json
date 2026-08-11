@@ -1,0 +1,2480 @@
+[
+  {
+    "iso2": "AF",
+    "language_code": "ps",
+    "native_language_name": "پښتو",
+    "language_zh_name": "普什图语",
+    "language_en_name": "Pashto"
+  },
+  {
+    "iso2": "AF",
+    "language_code": "uz",
+    "native_language_name": "Ўзбек",
+    "language_zh_name": "乌兹别克语",
+    "language_en_name": "Uzbek"
+  },
+  {
+    "iso2": "AF",
+    "language_code": "tk",
+    "native_language_name": "Туркмен / تركمن",
+    "language_zh_name": "土库曼语",
+    "language_en_name": "Turkmen"
+  },
+  {
+    "iso2": "AL",
+    "language_code": "sq",
+    "native_language_name": "Shqip",
+    "language_zh_name": "阿尔巴尼亚语",
+    "language_en_name": "Albanian"
+  },
+  {
+    "iso2": "DZ",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "AD",
+    "language_code": "ca",
+    "native_language_name": "Català",
+    "language_zh_name": "加泰罗尼亚语",
+    "language_en_name": "Catalan"
+  },
+  {
+    "iso2": "AO",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "AG",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "AR",
+    "language_code": "gn",
+    "native_language_name": "Avañe'ẽ",
+    "language_zh_name": "瓜拉尼语",
+    "language_en_name": "Guarani"
+  },
+  {
+    "iso2": "AR",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "AM",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "AM",
+    "language_code": "hy",
+    "native_language_name": "Հայերեն",
+    "language_zh_name": "亚美尼亚语",
+    "language_en_name": "Armenian"
+  },
+  {
+    "iso2": "AU",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "AT",
+    "language_code": "de",
+    "native_language_name": "Deutsch",
+    "language_zh_name": "德语",
+    "language_en_name": "German"
+  },
+  {
+    "iso2": "AZ",
+    "language_code": "az",
+    "native_language_name": "Azərbaycanca / آذربايجان",
+    "language_zh_name": "阿塞拜疆语",
+    "language_en_name": "Azerbaijani"
+  },
+  {
+    "iso2": "BS",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "BH",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "BD",
+    "language_code": "bn",
+    "native_language_name": "বাংলা",
+    "language_zh_name": "孟加拉语",
+    "language_en_name": "Bengali"
+  },
+  {
+    "iso2": "BB",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "BY",
+    "language_code": "be",
+    "native_language_name": "Беларуская",
+    "language_zh_name": "白俄罗斯语",
+    "language_en_name": "Belarusian"
+  },
+  {
+    "iso2": "BY",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "BE",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "BE",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
+  },
+  {
+    "iso2": "BE",
+    "language_code": "de",
+    "native_language_name": "Deutsch",
+    "language_zh_name": "德语",
+    "language_en_name": "German"
+  },
+  {
+    "iso2": "BZ",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "BZ",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "BJ",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "BT",
+    "language_code": "dz",
+    "native_language_name": "ཇོང་ཁ",
+    "language_zh_name": "不丹语",
+    "language_en_name": "Dzongkha"
+  },
+  {
+    "iso2": "BO",
+    "language_code": "qu",
+    "native_language_name": "Runa Simi",
+    "language_zh_name": "盖丘亚语",
+    "language_en_name": "Quechua"
+  },
+  {
+    "iso2": "BO",
+    "language_code": "ay",
+    "native_language_name": "Aymar",
+    "language_zh_name": "艾马拉语",
+    "language_en_name": "Aymara"
+  },
+  {
+    "iso2": "BO",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "BA",
+    "language_code": "hr",
+    "native_language_name": "Hrvatski",
+    "language_zh_name": "克罗地亚语",
+    "language_en_name": "Croatian"
+  },
+  {
+    "iso2": "BA",
+    "language_code": "bs",
+    "native_language_name": "Bosanski",
+    "language_zh_name": "波斯尼亚语",
+    "language_en_name": "Bosnian"
+  },
+  {
+    "iso2": "BA",
+    "language_code": "sr",
+    "native_language_name": "Српски",
+    "language_zh_name": "塞尔维亚语",
+    "language_en_name": "Serbian"
+  },
+  {
+    "iso2": "BW",
+    "language_code": "tn",
+    "native_language_name": "Setswana",
+    "language_zh_name": "塞茨瓦纳语",
+    "language_en_name": "Tswana"
+  },
+  {
+    "iso2": "BW",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "BR",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "BN",
+    "language_code": "ms",
+    "native_language_name": "Bahasa Melayu",
+    "language_zh_name": "马来语",
+    "language_en_name": "Malay"
+  },
+  {
+    "iso2": "BG",
+    "language_code": "bg",
+    "native_language_name": "Български",
+    "language_zh_name": "保加利亚语",
+    "language_en_name": "Bulgarian"
+  },
+  {
+    "iso2": "BF",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "BF",
+    "language_code": "ff",
+    "native_language_name": "Fulfulde",
+    "language_zh_name": "弗拉语、富拉语、弗拉尼语、普拉尔语",
+    "language_en_name": "Peul"
+  },
+  {
+    "iso2": "BI",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "BI",
+    "language_code": "rn",
+    "native_language_name": "Kirundi",
+    "language_zh_name": "基隆迪语",
+    "language_en_name": "Kirundi"
+  },
+  {
+    "iso2": "KH",
+    "language_code": "km",
+    "native_language_name": "ភាសាខ្មែរ",
+    "language_zh_name": "高棉语",
+    "language_en_name": "Cambodian"
+  },
+  {
+    "iso2": "CM",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "CM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "CA",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "CA",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "CV",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "CF",
+    "language_code": "sg",
+    "native_language_name": "Sängö",
+    "language_zh_name": "桑戈语",
+    "language_en_name": "Sango"
+  },
+  {
+    "iso2": "CF",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "TD",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "TD",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "CL",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "CN",
+    "language_code": "zh",
+    "native_language_name": "中文",
+    "language_zh_name": "中文",
+    "language_en_name": "Chinese"
+  },
+  {
+    "iso2": "CO",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "KM",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "KM",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "CR",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "HR",
+    "language_code": "hr",
+    "native_language_name": "Hrvatski",
+    "language_zh_name": "克罗地亚语",
+    "language_en_name": "Croatian"
+  },
+  {
+    "iso2": "CU",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "CY",
+    "language_code": "hy",
+    "native_language_name": "Հայերեն",
+    "language_zh_name": "亚美尼亚语",
+    "language_en_name": "Armenian"
+  },
+  {
+    "iso2": "CY",
+    "language_code": "tr",
+    "native_language_name": "Türkçe",
+    "language_zh_name": "土耳其语",
+    "language_en_name": "Turkish"
+  },
+  {
+    "iso2": "CY",
+    "language_code": "el",
+    "native_language_name": "Ελληνικά",
+    "language_zh_name": "希腊语（现代）",
+    "language_en_name": "Greek"
+  },
+  {
+    "iso2": "CZ",
+    "language_code": "cs",
+    "native_language_name": "Čeština",
+    "language_zh_name": "捷克语",
+    "language_en_name": "Czech"
+  },
+  {
+    "iso2": "CZ",
+    "language_code": "sk",
+    "native_language_name": "Slovenčina",
+    "language_zh_name": "斯洛伐克语",
+    "language_en_name": "Slovak"
+  },
+  {
+    "iso2": "CD",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "CD",
+    "language_code": "ln",
+    "native_language_name": "Lingála",
+    "language_zh_name": "林加拉语",
+    "language_en_name": "Lingala"
+  },
+  {
+    "iso2": "CD",
+    "language_code": "kg",
+    "native_language_name": "KiKongo",
+    "language_zh_name": "刚果语",
+    "language_en_name": "Kongo"
+  },
+  {
+    "iso2": "CD",
+    "language_code": "sw",
+    "native_language_name": "Kiswahili",
+    "language_zh_name": "斯瓦希里语",
+    "language_en_name": "Swahili"
+  },
+  {
+    "iso2": "CD",
+    "language_code": "lu",
+    "native_language_name": "Tshiluba",
+    "language_zh_name": "卢巴-加丹加语",
+    "language_en_name": "Luba-Katanga"
+  },
+  {
+    "iso2": "DK",
+    "language_code": "da",
+    "native_language_name": "Dansk",
+    "language_zh_name": "丹麦语",
+    "language_en_name": "Danish"
+  },
+  {
+    "iso2": "DJ",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "DJ",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "DM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "DO",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "EC",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "EG",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "SV",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "GQ",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "GQ",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "ER",
+    "language_code": "ti",
+    "native_language_name": "ትግርኛ",
+    "language_zh_name": "蒂格里亚语",
+    "language_en_name": "Tigrinya"
+  },
+  {
+    "iso2": "ER",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "ER",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "EE",
+    "language_code": "et",
+    "native_language_name": "Eesti",
+    "language_zh_name": "爱沙尼亚语",
+    "language_en_name": "Estonian"
+  },
+  {
+    "iso2": "ET",
+    "language_code": "am",
+    "native_language_name": "አማርኛ",
+    "language_zh_name": "阿姆哈拉语",
+    "language_en_name": "Amharic"
+  },
+  {
+    "iso2": "FJ",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "FJ",
+    "language_code": "fj",
+    "native_language_name": "Na Vosa Vakaviti",
+    "language_zh_name": "飞济群岛语",
+    "language_en_name": "Fijian"
+  },
+  {
+    "iso2": "FJ",
+    "language_code": "hi",
+    "native_language_name": "हिन्दी",
+    "language_zh_name": "印地语",
+    "language_en_name": "Hindi"
+  },
+  {
+    "iso2": "FJ",
+    "language_code": "ur",
+    "native_language_name": "اردو",
+    "language_zh_name": "乌尔都语",
+    "language_en_name": "Urdu"
+  },
+  {
+    "iso2": "FI",
+    "language_code": "fi",
+    "native_language_name": "Suomi",
+    "language_zh_name": "芬兰语",
+    "language_en_name": "Finnish"
+  },
+  {
+    "iso2": "FI",
+    "language_code": "sv",
+    "native_language_name": "Svenska",
+    "language_zh_name": "瑞典语",
+    "language_en_name": "Swedish"
+  },
+  {
+    "iso2": "FR",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "GA",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "GM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "GE",
+    "language_code": "ka",
+    "native_language_name": "ქართული",
+    "language_zh_name": "格鲁吉亚语",
+    "language_en_name": "Georgian"
+  },
+  {
+    "iso2": "DE",
+    "language_code": "de",
+    "native_language_name": "Deutsch",
+    "language_zh_name": "德语",
+    "language_en_name": "German"
+  },
+  {
+    "iso2": "GH",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "GR",
+    "language_code": "el",
+    "native_language_name": "Ελληνικά",
+    "language_zh_name": "希腊语（现代）",
+    "language_en_name": "Greek"
+  },
+  {
+    "iso2": "GD",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "GT",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "GN",
+    "language_code": "ff",
+    "native_language_name": "Fulfulde",
+    "language_zh_name": "弗拉语、富拉语、弗拉尼语、普拉尔语",
+    "language_en_name": "Peul"
+  },
+  {
+    "iso2": "GN",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "GW",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "GY",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "HT",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "HT",
+    "language_code": "ht",
+    "native_language_name": "Krèyol ayisyen",
+    "language_zh_name": "海地语、海地克里奥尔语",
+    "language_en_name": "Haitian"
+  },
+  {
+    "iso2": "HN",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "HU",
+    "language_code": "hu",
+    "native_language_name": "Magyar",
+    "language_zh_name": "匈牙利语",
+    "language_en_name": "Hungarian"
+  },
+  {
+    "iso2": "IS",
+    "language_code": "is",
+    "native_language_name": "Íslenska",
+    "language_zh_name": "冰岛语",
+    "language_en_name": "Icelandic"
+  },
+  {
+    "iso2": "IN",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "IN",
+    "language_code": "hi",
+    "native_language_name": "हिन्दी",
+    "language_zh_name": "印地语",
+    "language_en_name": "Hindi"
+  },
+  {
+    "iso2": "ID",
+    "language_code": "id",
+    "native_language_name": "Bahasa Indonesia",
+    "language_zh_name": "印尼语群",
+    "language_en_name": "Indonesian"
+  },
+  {
+    "iso2": "IR",
+    "language_code": "fa",
+    "native_language_name": "فارسی",
+    "language_zh_name": "波斯语",
+    "language_en_name": "Persian"
+  },
+  {
+    "iso2": "IQ",
+    "language_code": "ku",
+    "native_language_name": "Kurdî / كوردی",
+    "language_zh_name": "库尔德语",
+    "language_en_name": "Kurdish"
+  },
+  {
+    "iso2": "IQ",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "IE",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "IE",
+    "language_code": "ga",
+    "native_language_name": "Gaeilge",
+    "language_zh_name": "爱尔兰语",
+    "language_en_name": "Irish"
+  },
+  {
+    "iso2": "IL",
+    "language_code": "he",
+    "native_language_name": "עברית",
+    "language_zh_name": "希伯来语（现代）",
+    "language_en_name": "Hebrew"
+  },
+  {
+    "iso2": "IL",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "IT",
+    "language_code": "it",
+    "native_language_name": "Italiano",
+    "language_zh_name": "意大利语",
+    "language_en_name": "Italian"
+  },
+  {
+    "iso2": "JM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "JP",
+    "language_code": "ja",
+    "native_language_name": "日本語",
+    "language_zh_name": "日语",
+    "language_en_name": "Japanese"
+  },
+  {
+    "iso2": "JO",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "KZ",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "KZ",
+    "language_code": "kk",
+    "native_language_name": "Қазақша",
+    "language_zh_name": "哈萨克语",
+    "language_en_name": "Kazakh"
+  },
+  {
+    "iso2": "KE",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "KE",
+    "language_code": "sw",
+    "native_language_name": "Kiswahili",
+    "language_zh_name": "斯瓦希里语",
+    "language_en_name": "Swahili"
+  },
+  {
+    "iso2": "KI",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "KW",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "KG",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "KG",
+    "language_code": "ky",
+    "native_language_name": "Кыргызча",
+    "language_zh_name": "吉尔吉斯语",
+    "language_en_name": "Kyrgyz"
+  },
+  {
+    "iso2": "LA",
+    "language_code": "lo",
+    "native_language_name": "ລາວ / Pha xa lao",
+    "language_zh_name": "老挝语",
+    "language_en_name": "Laotian"
+  },
+  {
+    "iso2": "LV",
+    "language_code": "lv",
+    "native_language_name": "Latviešu",
+    "language_zh_name": "拉脱维亚语",
+    "language_en_name": "Latvian"
+  },
+  {
+    "iso2": "LB",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "LB",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "LS",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "LS",
+    "language_code": "st",
+    "native_language_name": "Sesotho",
+    "language_zh_name": "南索托语",
+    "language_en_name": "Southern Sotho"
+  },
+  {
+    "iso2": "LR",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "LY",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "LI",
+    "language_code": "de",
+    "native_language_name": "Deutsch",
+    "language_zh_name": "德语",
+    "language_en_name": "German"
+  },
+  {
+    "iso2": "LT",
+    "language_code": "lt",
+    "native_language_name": "Lietuvių",
+    "language_zh_name": "立陶宛语",
+    "language_en_name": "Lithuanian"
+  },
+  {
+    "iso2": "LU",
+    "language_code": "lb",
+    "native_language_name": "Lëtzebuergesch",
+    "language_zh_name": "卢森堡语",
+    "language_en_name": "Luxembourgish"
+  },
+  {
+    "iso2": "LU",
+    "language_code": "de",
+    "native_language_name": "Deutsch",
+    "language_zh_name": "德语",
+    "language_en_name": "German"
+  },
+  {
+    "iso2": "LU",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "MG",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "MG",
+    "language_code": "mg",
+    "native_language_name": "Malagasy",
+    "language_zh_name": "马达加斯加语",
+    "language_en_name": "Malagasy"
+  },
+  {
+    "iso2": "MW",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MW",
+    "language_code": "ny",
+    "native_language_name": "Chi-Chewa",
+    "language_zh_name": "奇契瓦语、切瓦语、尼安哈语",
+    "language_en_name": "Chichewa"
+  },
+  {
+    "iso2": "MY",
+    "language_code": "ms",
+    "native_language_name": "Bahasa Melayu",
+    "language_zh_name": "马来语",
+    "language_en_name": "Malay"
+  },
+  {
+    "iso2": "MV",
+    "language_code": "dv",
+    "native_language_name": "ދިވެހިބަސް",
+    "language_zh_name": "地维希语、迪维希语、马尔代夫语",
+    "language_en_name": "Divehi"
+  },
+  {
+    "iso2": "ML",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "MT",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MT",
+    "language_code": "mt",
+    "native_language_name": "bil-Malti",
+    "language_zh_name": "马其他语",
+    "language_en_name": "Maltese"
+  },
+  {
+    "iso2": "MH",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MH",
+    "language_code": "mh",
+    "native_language_name": "Kajin Majel / Ebon",
+    "language_zh_name": "马绍尔语",
+    "language_en_name": "Marshallese"
+  },
+  {
+    "iso2": "MR",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "MU",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MX",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "FM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MD",
+    "language_code": "ro",
+    "native_language_name": "Română",
+    "language_zh_name": "罗马尼亚语、摩尔达维亚语",
+    "language_en_name": "Romanian"
+  },
+  {
+    "iso2": "MC",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "MN",
+    "language_code": "mn",
+    "native_language_name": "Монгол",
+    "language_zh_name": "蒙古语",
+    "language_en_name": "Mongolian"
+  },
+  {
+    "iso2": "ME",
+    "language_code": "sr",
+    "native_language_name": "Српски",
+    "language_zh_name": "塞尔维亚语",
+    "language_en_name": "Serbian"
+  },
+  {
+    "iso2": "ME",
+    "language_code": "bs",
+    "native_language_name": "Bosanski",
+    "language_zh_name": "波斯尼亚语",
+    "language_en_name": "Bosnian"
+  },
+  {
+    "iso2": "ME",
+    "language_code": "sq",
+    "native_language_name": "Shqip",
+    "language_zh_name": "阿尔巴尼亚语",
+    "language_en_name": "Albanian"
+  },
+  {
+    "iso2": "ME",
+    "language_code": "hr",
+    "native_language_name": "Hrvatski",
+    "language_zh_name": "克罗地亚语",
+    "language_en_name": "Croatian"
+  },
+  {
+    "iso2": "MA",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "MZ",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "MM",
+    "language_code": "my",
+    "native_language_name": "မြန်မာစာ",
+    "language_zh_name": "缅甸语",
+    "language_en_name": "Burmese"
+  },
+  {
+    "iso2": "NA",
+    "language_code": "af",
+    "native_language_name": "Afrikaans",
+    "language_zh_name": "南非荷兰语（斐语）",
+    "language_en_name": "Afrikaans"
+  },
+  {
+    "iso2": "NA",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "NR",
+    "language_code": "na",
+    "native_language_name": "Dorerin Naoero",
+    "language_zh_name": "瑙鲁语",
+    "language_en_name": "Nauruan"
+  },
+  {
+    "iso2": "NR",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "NP",
+    "language_code": "ne",
+    "native_language_name": "नेपाली",
+    "language_zh_name": "尼泊尔语",
+    "language_en_name": "Nepali"
+  },
+  {
+    "iso2": "NL",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
+  },
+  {
+    "iso2": "NZ",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "NZ",
+    "language_code": "mi",
+    "native_language_name": "Māori",
+    "language_zh_name": "毛利语",
+    "language_en_name": "Maori"
+  },
+  {
+    "iso2": "NI",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "NE",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "NG",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "KP",
+    "language_code": "ko",
+    "native_language_name": "한국어",
+    "language_zh_name": "韩语",
+    "language_en_name": "Korean"
+  },
+  {
+    "iso2": "MK",
+    "language_code": "mk",
+    "native_language_name": "Македонски",
+    "language_zh_name": "马其顿语",
+    "language_en_name": "Macedonian"
+  },
+  {
+    "iso2": "NO",
+    "language_code": "no",
+    "native_language_name": "Norsk",
+    "language_zh_name": "挪威语",
+    "language_en_name": "Norwegian"
+  },
+  {
+    "iso2": "NO",
+    "language_code": "nb",
+    "native_language_name": "Norsk bokmål",
+    "language_zh_name": "挪威博克马尔语",
+    "language_en_name": "Norwegian Bokmål"
+  },
+  {
+    "iso2": "NO",
+    "language_code": "nn",
+    "native_language_name": "Norsk nynorsk",
+    "language_zh_name": "挪威尼诺斯克语",
+    "language_en_name": "Norwegian Nynorsk"
+  },
+  {
+    "iso2": "OM",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "PK",
+    "language_code": "ur",
+    "native_language_name": "اردو",
+    "language_zh_name": "乌尔都语",
+    "language_en_name": "Urdu"
+  },
+  {
+    "iso2": "PK",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "PW",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "PS",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "PA",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "PG",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "PY",
+    "language_code": "gn",
+    "native_language_name": "Avañe'ẽ",
+    "language_zh_name": "瓜拉尼语",
+    "language_en_name": "Guarani"
+  },
+  {
+    "iso2": "PY",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "PE",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "PH",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "PL",
+    "language_code": "pl",
+    "native_language_name": "Polski",
+    "language_zh_name": "波兰语",
+    "language_en_name": "Polish"
+  },
+  {
+    "iso2": "PT",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "QA",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "RO",
+    "language_code": "ro",
+    "native_language_name": "Română",
+    "language_zh_name": "罗马尼亚语、摩尔达维亚语",
+    "language_en_name": "Romanian"
+  },
+  {
+    "iso2": "RU",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "RW",
+    "language_code": "rw",
+    "native_language_name": "Kinyarwandi",
+    "language_zh_name": "卢旺达语",
+    "language_en_name": "Rwandi"
+  },
+  {
+    "iso2": "RW",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "RW",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "KN",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "LC",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "VC",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "WS",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "WS",
+    "language_code": "sm",
+    "native_language_name": "Gagana Samoa",
+    "language_zh_name": "萨摩亚语",
+    "language_en_name": "Samoan"
+  },
+  {
+    "iso2": "SM",
+    "language_code": "it",
+    "native_language_name": "Italiano",
+    "language_zh_name": "意大利语",
+    "language_en_name": "Italian"
+  },
+  {
+    "iso2": "ST",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "SA",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "SN",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "RS",
+    "language_code": "sr",
+    "native_language_name": "Српски",
+    "language_zh_name": "塞尔维亚语",
+    "language_en_name": "Serbian"
+  },
+  {
+    "iso2": "SC",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "SC",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "SL",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "SG",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "SG",
+    "language_code": "ms",
+    "native_language_name": "Bahasa Melayu",
+    "language_zh_name": "马来语",
+    "language_en_name": "Malay"
+  },
+  {
+    "iso2": "SG",
+    "language_code": "ta",
+    "native_language_name": "தமிழ்",
+    "language_zh_name": "泰米尔语",
+    "language_en_name": "Tamil"
+  },
+  {
+    "iso2": "SG",
+    "language_code": "zh",
+    "native_language_name": "中文",
+    "language_zh_name": "中文",
+    "language_en_name": "Chinese"
+  },
+  {
+    "iso2": "SK",
+    "language_code": "sk",
+    "native_language_name": "Slovenčina",
+    "language_zh_name": "斯洛伐克语",
+    "language_en_name": "Slovak"
+  },
+  {
+    "iso2": "SI",
+    "language_code": "sl",
+    "native_language_name": "Slovenščina",
+    "language_zh_name": "斯洛文尼亚语",
+    "language_en_name": "Slovenian"
+  },
+  {
+    "iso2": "SB",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "SO",
+    "language_code": "so",
+    "native_language_name": "Soomaaliga",
+    "language_zh_name": "索马利语",
+    "language_en_name": "Somalia"
+  },
+  {
+    "iso2": "SO",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "zu",
+    "native_language_name": "isiZulu",
+    "language_zh_name": "祖鲁语",
+    "language_en_name": "Zulu"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "xh",
+    "native_language_name": "isiXhosa",
+    "language_zh_name": "科萨语",
+    "language_en_name": "Xhosa"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "ve",
+    "native_language_name": "Tshivenḓa",
+    "language_zh_name": "文达语",
+    "language_en_name": "Venda"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "ts",
+    "native_language_name": "Xitsonga",
+    "language_zh_name": "宗加语",
+    "language_en_name": "Tsonga"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "tn",
+    "native_language_name": "Setswana",
+    "language_zh_name": "塞茨瓦纳语",
+    "language_en_name": "Tswana"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "ss",
+    "native_language_name": "SiSwati",
+    "language_zh_name": "斯瓦特语",
+    "language_en_name": "Swati"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "st",
+    "native_language_name": "Sesotho",
+    "language_zh_name": "南索托语",
+    "language_en_name": "Southern Sotho"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "nr",
+    "native_language_name": "isiNdebele",
+    "language_zh_name": "南恩德贝勒语",
+    "language_en_name": "South Ndebele"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "ZA",
+    "language_code": "af",
+    "native_language_name": "Afrikaans",
+    "language_zh_name": "南非荷兰语（斐语）",
+    "language_en_name": "Afrikaans"
+  },
+  {
+    "iso2": "KR",
+    "language_code": "ko",
+    "native_language_name": "한국어",
+    "language_zh_name": "韩语",
+    "language_en_name": "Korean"
+  },
+  {
+    "iso2": "SS",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "ES",
+    "language_code": "oc",
+    "native_language_name": "Occitan",
+    "language_zh_name": "奥西坦语",
+    "language_en_name": "Occitan"
+  },
+  {
+    "iso2": "ES",
+    "language_code": "gl",
+    "native_language_name": "Galego",
+    "language_zh_name": "加利西亚语",
+    "language_en_name": "Galician"
+  },
+  {
+    "iso2": "ES",
+    "language_code": "ca",
+    "native_language_name": "Català",
+    "language_zh_name": "加泰罗尼亚语",
+    "language_en_name": "Catalan"
+  },
+  {
+    "iso2": "ES",
+    "language_code": "eu",
+    "native_language_name": "Euskara",
+    "language_zh_name": "巴斯克语",
+    "language_en_name": "Basque"
+  },
+  {
+    "iso2": "ES",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "LK",
+    "language_code": "ta",
+    "native_language_name": "தமிழ்",
+    "language_zh_name": "泰米尔语",
+    "language_en_name": "Tamil"
+  },
+  {
+    "iso2": "LK",
+    "language_code": "si",
+    "native_language_name": "සිංහල",
+    "language_zh_name": "锡兰语",
+    "language_en_name": "Sinhalese"
+  },
+  {
+    "iso2": "SD",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "SD",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "SR",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
+  },
+  {
+    "iso2": "SE",
+    "language_code": "sv",
+    "native_language_name": "Svenska",
+    "language_zh_name": "瑞典语",
+    "language_en_name": "Swedish"
+  },
+  {
+    "iso2": "CH",
+    "language_code": "it",
+    "native_language_name": "Italiano",
+    "language_zh_name": "意大利语",
+    "language_en_name": "Italian"
+  },
+  {
+    "iso2": "CH",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "CH",
+    "language_code": "de",
+    "native_language_name": "Deutsch",
+    "language_zh_name": "德语",
+    "language_en_name": "German"
+  },
+  {
+    "iso2": "SY",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "TW",
+    "language_code": "zh",
+    "native_language_name": "中文",
+    "language_zh_name": "中文",
+    "language_en_name": "Chinese"
+  },
+  {
+    "iso2": "TJ",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "TJ",
+    "language_code": "tg",
+    "native_language_name": "Тоҷикӣ",
+    "language_zh_name": "塔吉克语",
+    "language_en_name": "Tajik"
+  },
+  {
+    "iso2": "TZ",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "TZ",
+    "language_code": "sw",
+    "native_language_name": "Kiswahili",
+    "language_zh_name": "斯瓦希里语",
+    "language_en_name": "Swahili"
+  },
+  {
+    "iso2": "TH",
+    "language_code": "th",
+    "native_language_name": "ไทย / Phasa Thai",
+    "language_zh_name": "泰语",
+    "language_en_name": "Thai"
+  },
+  {
+    "iso2": "TL",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "TG",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "TO",
+    "language_code": "to",
+    "native_language_name": "Lea Faka-Tonga",
+    "language_zh_name": "汤加语",
+    "language_en_name": "Tonga"
+  },
+  {
+    "iso2": "TO",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "TT",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "TN",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "TR",
+    "language_code": "tr",
+    "native_language_name": "Türkçe",
+    "language_zh_name": "土耳其语",
+    "language_en_name": "Turkish"
+  },
+  {
+    "iso2": "TM",
+    "language_code": "tk",
+    "native_language_name": "Туркмен / تركمن",
+    "language_zh_name": "土库曼语",
+    "language_en_name": "Turkmen"
+  },
+  {
+    "iso2": "TM",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "TV",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "UG",
+    "language_code": "sw",
+    "native_language_name": "Kiswahili",
+    "language_zh_name": "斯瓦希里语",
+    "language_en_name": "Swahili"
+  },
+  {
+    "iso2": "UG",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "UA",
+    "language_code": "uk",
+    "native_language_name": "Українська",
+    "language_zh_name": "乌克兰语",
+    "language_en_name": "Ukrainian"
+  },
+  {
+    "iso2": "AE",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "GB",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "US",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "UY",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "UZ",
+    "language_code": "uz",
+    "native_language_name": "Ўзбек",
+    "language_zh_name": "乌兹别克语",
+    "language_en_name": "Uzbek"
+  },
+  {
+    "iso2": "UZ",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "VU",
+    "language_code": "bi",
+    "native_language_name": "Bislama",
+    "language_zh_name": "比斯拉马语",
+    "language_en_name": "Bislama"
+  },
+  {
+    "iso2": "VU",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "VU",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "VA",
+    "language_code": "la",
+    "native_language_name": "Latina",
+    "language_zh_name": "拉丁语",
+    "language_en_name": "Latin"
+  },
+  {
+    "iso2": "VA",
+    "language_code": "it",
+    "native_language_name": "Italiano",
+    "language_zh_name": "意大利语",
+    "language_en_name": "Italian"
+  },
+  {
+    "iso2": "VE",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "VN",
+    "language_code": "vi",
+    "native_language_name": "Tiếng Việt",
+    "language_zh_name": "越南语",
+    "language_en_name": "Vietnamese"
+  },
+  {
+    "iso2": "YE",
+    "language_code": "ar",
+    "native_language_name": "العربية",
+    "language_zh_name": "阿拉伯语",
+    "language_en_name": "Arabic"
+  },
+  {
+    "iso2": "ZM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "ZW",
+    "language_code": "sn",
+    "native_language_name": "chiShona",
+    "language_zh_name": "修纳语",
+    "language_en_name": "Shona"
+  },
+  {
+    "iso2": "ZW",
+    "language_code": "nd",
+    "native_language_name": "Sindebele",
+    "language_zh_name": "北恩德贝勒语",
+    "language_en_name": "North Ndebele"
+  },
+  {
+    "iso2": "ZW",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "XK",
+    "language_code": "sr",
+    "native_language_name": "Српски",
+    "language_zh_name": "塞尔维亚语",
+    "language_en_name": "Serbian"
+  },
+  {
+    "iso2": "XK",
+    "language_code": "sq",
+    "native_language_name": "Shqip",
+    "language_zh_name": "阿尔巴尼亚语",
+    "language_en_name": "Albanian"
+  },
+  {
+    "iso2": "AS",
+    "language_code": "sm",
+    "native_language_name": "Gagana Samoa",
+    "language_zh_name": "萨摩亚语",
+    "language_en_name": "Samoan"
+  },
+  {
+    "iso2": "AS",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "AI",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "AW",
+    "language_code": "pa",
+    "native_language_name": "ਪੰਜਾਬੀ / पंजाबी / پنجابي",
+    "language_zh_name": "旁遮普语",
+    "language_en_name": "Panjabi / Punjabi"
+  },
+  {
+    "iso2": "AW",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
+  },
+  {
+    "iso2": "BM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "BV",
+    "language_code": "nn",
+    "native_language_name": "Norsk nynorsk",
+    "language_zh_name": "挪威尼诺斯克语",
+    "language_en_name": "Norwegian Nynorsk"
+  },
+  {
+    "iso2": "BV",
+    "language_code": "nb",
+    "native_language_name": "Norsk bokmål",
+    "language_zh_name": "挪威博克马尔语",
+    "language_en_name": "Norwegian Bokmål"
+  },
+  {
+    "iso2": "BV",
+    "language_code": "no",
+    "native_language_name": "Norsk",
+    "language_zh_name": "挪威语",
+    "language_en_name": "Norwegian"
+  },
+  {
+    "iso2": "IO",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "VG",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "KY",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "CX",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "CC",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "CK",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "CW",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
+  },
+  {
+    "iso2": "CW",
+    "language_code": "pa",
+    "native_language_name": "ਪੰਜਾਬੀ / पंजाबी / پنجابي",
+    "language_zh_name": "旁遮普语",
+    "language_en_name": "Panjabi / Punjabi"
+  },
+  {
+    "iso2": "CW",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "FK",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "FO",
+    "language_code": "fo",
+    "native_language_name": "Føroyskt",
+    "language_zh_name": "法罗语",
+    "language_en_name": "Faroese"
+  },
+  {
+    "iso2": "GF",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "PF",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "TF",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "GI",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "GL",
+    "language_code": "kl",
+    "native_language_name": "Kalaallisut",
+    "language_zh_name": "格陵兰语",
+    "language_en_name": "Greenlandic"
+  },
+  {
+    "iso2": "GP",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "GU",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "GU",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "GU",
+    "language_code": "ch",
+    "native_language_name": "Chamoru",
+    "language_zh_name": "查莫罗语",
+    "language_en_name": "Chamorro"
+  },
+  {
+    "iso2": "HK",
+    "language_code": "zh",
+    "native_language_name": "中文",
+    "language_zh_name": "中文",
+    "language_en_name": "Chinese"
+  },
+  {
+    "iso2": "HK",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MO",
+    "language_code": "zh",
+    "native_language_name": "中文",
+    "language_zh_name": "中文",
+    "language_en_name": "Chinese"
+  },
+  {
+    "iso2": "MO",
+    "language_code": "pt",
+    "native_language_name": "Português",
+    "language_zh_name": "葡萄牙语",
+    "language_en_name": "Portuguese"
+  },
+  {
+    "iso2": "MQ",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "YT",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "MS",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "NC",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "NU",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "NF",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MP",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MP",
+    "language_code": "ch",
+    "native_language_name": "Chamoru",
+    "language_zh_name": "查莫罗语",
+    "language_en_name": "Chamorro"
+  },
+  {
+    "iso2": "PN",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "PR",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "PR",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "RE",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "BL",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "SH",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MF",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "MF",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "MF",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
+  },
+  {
+    "iso2": "PM",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "SX",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
+  },
+  {
+    "iso2": "SX",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "TK",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "VI",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "TS",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "XS",
+    "language_code": "so",
+    "native_language_name": "Soomaaliga",
+    "language_zh_name": "索马里语",
+    "language_en_name": "Somalia"
+  },
+  {
+    "iso2": "OS",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "AB",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  },
+  {
+    "iso2": "CT",
+    "language_code": "tr",
+    "native_language_name": "Türkçe",
+    "language_zh_name": "土耳其语",
+    "language_en_name": "Turkish"
+  },
+  {
+    "iso2": "NK",
+    "language_code": "ru",
+    "native_language_name": "Русский",
+    "language_zh_name": "俄语",
+    "language_en_name": "Russian"
+  }
+]

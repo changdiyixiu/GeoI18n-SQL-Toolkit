@@ -1,0 +1,251 @@
+﻿iso2,currency_code,native_currency_name,currency_zh_name,currency_en_name,currency_symbol,country_name,decimal_place,thousand_separator,decimal_separator
+AF,AFN,Afghan afghani,阿富汗尼,Afghan afghani,؋,Afghanistan,2,",",.
+AL,ALL,Albanian lek,阿尔巴尼亚列克,Albanian lek,L,Albania,2,.,","
+DZ,DZD,Algerian dinar,阿尔及利亚第纳尔,Algerian dinar,دج,Algeria,2,",",.
+AD,EUR,Euro,欧元,Euro,€,Andorra,2,.,","
+AO,AOA,Angolan kwanza,安哥拉宽扎,Angolan kwanza,Kz,Angola,2,.,","
+AG,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Antigua and Barbuda,2,",",.
+AR,ARS,Argentine peso,阿根廷比索,Argentine peso,$,Argentina,2,.,","
+AM,AMD,Armenian dram,亚美尼亚德拉姆,Armenian dram,֏,Armenia,2,",",.
+AU,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Australia,2,",",.
+AT,EUR,Euro,欧元,Euro,€,Austria,2,.,","
+AZ,AZN,Azerbaijani manat,阿塞拜疆马纳特,Azerbaijani manat,₼,Azerbaijan,2, ,","
+BS,BSD,Bahamian dollar,巴哈马元,Bahamian dollar,$,Bahamas,2,",",.
+BH,BHD,Bahraini dinar,巴林第纳尔,Bahraini dinar,.د.ب,Bahrain,3,",",.
+BD,BDT,Bangladeshi taka,孟加拉塔卡,Bangladeshi taka,৳,Bangladesh,2,",",.
+BB,BBD,Barbadian dollar,巴巴多斯元,Barbadian dollar,$,Barbados,2,",",.
+BY,BYN,Belarusian ruble,白俄罗斯卢布,Belarusian ruble,Br,Belarus,2, ,","
+BE,EUR,Euro,欧元,Euro,€,Belgium,2,.,","
+BZ,BZD,Belize dollar,伯利兹元,Belize dollar,$,Belize,2,",",.
+BJ,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Benin,0,",",.
+BT,BTN,Bhutanese ngultrum,不丹努尔特鲁姆,Bhutanese ngultrum,Nu.,Bhutan,2,",",.
+BT,INR,Indian rupee,印度卢比,Indian rupee,₹,Bhutan,2,",",.
+BO,BOB,Bolivian boliviano,玻利维亚诺,Bolivian boliviano,Bs.,Bolivia,2,.,","
+BA,BAM,Bosnia and Herzegovina convertible mark,波斯尼亚-黑塞哥维那可兑换马克,Bosnia and Herzegovina convertible mark,KM,Bosnia and Herzegovina,2,.,","
+BW,BWP,Botswana pula,博茨瓦纳普拉,Botswana pula,P,Botswana,2,",",.
+BR,BRL,Brazilian real,巴西雷亚尔,Brazilian real,R$,Brazil,2,.,","
+BN,BND,Brunei dollar,文莱元,Brunei dollar,$,Brunei,2,",",.
+BG,BGN,Bulgarian lev,保加利亚列弗,Bulgarian lev,лв,Bulgaria,2, ,","
+BF,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Burkina Faso,0,",",.
+BI,BIF,Burundian franc,布隆迪法郎,Burundian franc,FBu,Burundi,0,",",.
+KH,KHR,Cambodian riel,柬埔寨瑞尔,Cambodian riel,៛,Cambodia,2,",",.
+CM,XAF,Central African CFA franc,中非法郎,Central African CFA franc,FCFA,Cameroon,0,",",.
+CA,CAD,Canadian dollar,加拿大元,Canadian dollar,$,Canada,2,",",.
+CV,CVE,Cape Verdean escudo,佛得角埃斯库多,Cape Verdean escudo,Esc,Cape Verde,2,.,","
+CF,XAF,Central African CFA franc,中非法郎,Central African CFA franc,FCFA,Central African Republic,0,",",.
+TD,XAF,Central African CFA franc,中非法郎,Central African CFA franc,FCFA,Chad,0,",",.
+CL,CLP,Chilean peso,智利比索,Chilean peso,$,Chile,0,.,","
+CN,CNY,Chinese yuan,人民币,Chinese yuan,¥,China,2,",",.
+CO,COP,Colombian peso,哥伦比亚比索,Colombian peso,$,Colombia,2,.,","
+KM,KMF,Comorian franc,科摩罗法郎,Comorian franc,Fr,Comoros,0,",",.
+CR,CRC,Costa Rican colón,哥斯达黎加科朗,Costa Rican colón,₡,Costa Rica,2,.,","
+HR,EUR,Euro,欧元,Euro,€,Croatia,2,.,","
+HR,HRK,Croatian kuna,克罗地亚库纳,Croatian kuna,kn,Croatia,2,.,","
+CU,CUP,Cuban peso,古巴比索,Cuban peso,$,Cuba,2,",",.
+CY,EUR,Euro,欧元,Euro,€,Cyprus,2,",",.
+CZ,CZK,Czech koruna,捷克克朗,Czech koruna,Kč,Czech Republic,2, ,","
+CD,CDF,Congolese Franc,刚果法郎,Congolese Franc,Fr,DR Congo,2,",",.
+DK,DKK,Danish krone,丹麦克朗,Danish krone,kr,Denmark,2,.,","
+DJ,DJF,Djiboutian franc,吉布提法郎,Djiboutian franc,Fr,Djibouti,0,",",.
+DM,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Dominica,2,",",.
+DO,DOP,Dominican peso,多米尼加比索,Dominican peso,$,Dominican Republic,2,",",.
+EC,USD,US Dollar,美元,US Dollar,$,Ecuador,2,",",.
+EG,EGP,Egyptian pound,埃及镑,Egyptian pound,ج.م,Egypt,2,",",.
+SV,USD,US Dollar,美元,US Dollar,$,El Salvador,2,",",.
+GQ,XAF,Central African CFA franc,中非法郎,Central African CFA franc,FCFA,Equatorial Guinea,0,.,","
+ER,ERN,Eritrean nakfa,厄立特里亚纳克法,Eritrean nakfa,Nfk,Eritrea,2,",",.
+EE,EUR,Euro,欧元,Euro,€,Estonia,2, ,","
+ET,ETB,Ethiopian birr,埃塞俄比亚比尔,Ethiopian birr,Br,Ethiopia,2,",",.
+FJ,FJD,Fijian dollar,斐济元,Fijian dollar,$,Fiji,2,",",.
+FI,EUR,Euro,欧元,Euro,€,Finland,2, ,","
+FR,EUR,Euro,欧元,Euro,€,France,2, ,","
+GA,XAF,Central African CFA franc,中非法郎,Central African CFA franc,FCFA,Gabon,0,",",.
+GM,GMD,Gambian dalasi,冈比亚达拉西,Gambian dalasi,D,Gambia,2,",",.
+GE,GEL,Georgian lari,格鲁吉亚拉里,Georgian lari,ლ,Georgia,2, ,","
+DE,EUR,Euro,欧元,Euro,€,Germany,2,.,","
+GH,GHS,Ghanaian cedi,加纳塞地,Ghanaian cedi,₵,Ghana,2,",",.
+GR,EUR,Euro,欧元,Euro,€,Greece,2,.,","
+GD,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Grenada,2,",",.
+GT,GTQ,Guatemalan quetzal,危地马拉格查尔,Guatemalan quetzal,Q,Guatemala,2,",",.
+GN,GNF,Guinean franc,几内亚法郎,Guinean franc,Fr,Guinea,0,",",.
+GW,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Guinea-Bissau,0,.,","
+GY,GYD,Guyanese dollar,圭亚那元,Guyanese dollar,$,Guyana,2,",",.
+HT,HTG,Haitian gourde,海地古德,Haitian gourde,G,Haiti,2,",",.
+HT,USD,US Dollar,美元,US Dollar,$,Haiti,2,",",.
+HN,HNL,Honduran lempira,洪都拉斯伦皮拉,Honduran lempira,L,Honduras,2,",",.
+HU,HUF,Hungarian forint,匈牙利福林,Hungarian forint,Ft,Hungary,2, ,","
+IS,ISK,Icelandic króna,冰岛克朗,Icelandic króna,kr,Iceland,0,.,","
+IN,INR,Indian rupee,印度卢比,Indian rupee,₹,India,2,",",.
+ID,IDR,Indonesian rupiah,印度尼西亚盾,Indonesian rupiah,Rp,Indonesia,2,.,","
+IR,IRR,Iranian rial,伊朗里亚尔,Iranian rial,ریال,Iran,2,",",.
+IQ,IQD,Iraqi dinar,伊拉克第纳尔,Iraqi dinar,د.ع,Iraq,3,",",.
+IE,EUR,Euro,欧元,Euro,€,Ireland,2,",",.
+IL,ILS,Israeli new shekel,以色列新谢克尔,Israeli new shekel,₪,Israel,2,",",.
+IT,EUR,Euro,欧元,Euro,€,Italy,2,.,","
+JM,JMD,Jamaican dollar,牙买加元,Jamaican dollar,$,Jamaica,2,",",.
+JP,JPY,Japanese yen,日元,Japanese yen,¥,Japan,0,",",.
+JO,JOD,Jordanian dinar,约旦第纳尔,Jordanian dinar,JD,Jordan,3,",",.
+KZ,KZT,Kazakhstani tenge,哈萨克斯坦坚戈,Kazakhstani tenge,₸,Kazakhstan,2, ,","
+KE,KES,Kenyan shilling,肯尼亚先令,Kenyan shilling,Ksh,Kenya,2,",",.
+KI,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Kiribati,2,",",.
+KW,KWD,Kuwaiti dinar,科威特第纳尔,Kuwaiti dinar,د.ك,Kuwait,3,",",.
+KG,KGS,Kyrgyzstani som,吉尔吉斯斯坦索姆,Kyrgyzstani som,сом,Kyrgyzstan,2, ,","
+LA,LAK,Lao kip,老挝基普,Lao kip,₭,Laos,2,",",.
+LV,EUR,Euro,欧元,Euro,€,Latvia,2, ,","
+LB,LBP,Lebanese pound,黎巴嫩镑,Lebanese pound,LL,Lebanon,2,",",.
+LS,LSL,Lesotho loti,莱索托洛蒂,Lesotho loti,M,Lesotho,2, ,","
+LS,ZAR,South African rand,南非兰特,South African rand,R,Lesotho,2, ,","
+LR,LRD,Liberian dollar,利比里亚元,Liberian dollar,$,Liberia,2,",",.
+LY,LYD,Libyan dinar,利比亚第纳尔,Libyan dinar,ل.د,Libya,3,",",.
+LI,CHF,Swiss franc,瑞士法郎,Swiss franc,Fr,Liechtenstein,2,',.
+LT,EUR,Euro,欧元,Euro,€,Lithuania,2, ,","
+LU,EUR,Euro,欧元,Euro,€,Luxembourg,2,.,","
+MG,MGA,Malagasy ariary,马达加斯加阿里亚里,Malagasy ariary,Ar,Madagascar,2,",",.
+MW,MWK,Malawian kwacha,马拉维克瓦查,Malawian kwacha,MK,Malawi,2,",",.
+MY,MYR,Malaysian ringgit,马来西亚林吉特,Malaysian ringgit,RM,Malaysia,2,",",.
+MV,MVR,Maldivian rufiyaa,马尔代夫卢菲亚,Maldivian rufiyaa,Rf.,Maldives,2,",",.
+ML,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Mali,0,",",.
+MT,EUR,Euro,欧元,Euro,€,Malta,2,",",.
+MH,USD,US Dollar,美元,US Dollar,$,Marshall Islands,2,",",.
+MR,MRU,Mauritanian Ouguiya,毛里塔尼亚乌吉亚,Mauritanian Ouguiya,UM,Mauritania,2,",",.
+MR,MRO,Mauritanian ouguiya,毛里塔尼亚乌吉亚 (1973–2017),Mauritanian ouguiya,UM,Mauritania,2,",",.
+MU,MUR,Mauritian rupee,毛里求斯卢比,Mauritian rupee,₨,Mauritius,2,",",.
+MX,MXN,Mexican peso,墨西哥比索,Mexican peso,$,Mexico,2,",",.
+FM,USD,US Dollar,美元,US Dollar,$,Micronesia,2,",",.
+MD,MDL,Moldovan leu,摩尔多瓦列伊,Moldovan leu,L,Moldova,2,",",.
+MC,EUR,Euro,欧元,Euro,€,Monaco,2,",",.
+MN,MNT,Mongolian tögrög,蒙古图格里克,Mongolian tögrög,₮,Mongolia,2,",",.
+ME,EUR,Euro,欧元,Euro,€,Montenegro,2,.,","
+MA,MAD,Moroccan Dirham,摩洛哥迪拉姆,Moroccan Dirham,د.م.,Morocco,2,",",.
+MZ,MZN,Mozambican metical,莫桑比克美提卡,Mozambican metical,MT,Mozambique,2,.,","
+MM,MMK,Burmese kyat,缅甸元,Burmese kyat,K,Myanmar,2,",",.
+NA,NAD,Namibian dollar,纳米比亚元,Namibian dollar,$,Namibia,2,",",.
+NA,ZAR,South African rand,南非兰特,South African rand,R,Namibia,2,",",.
+NR,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Nauru,2,",",.
+NP,NPR,Nepalese rupee,尼泊尔卢比,Nepalese rupee,₨,Nepal,2,",",.
+NL,EUR,Euro,欧元,Euro,€,Netherlands,2,.,","
+NZ,NZD,Cook Islands dollar,新西兰元,Cook Islands dollar,$,New Zealand,2,",",.
+NI,NIO,Nicaraguan córdoba,尼加拉瓜科多巴,Nicaraguan córdoba,C$,Nicaragua,2,",",.
+NE,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Niger,0,",",.
+NG,NGN,Nigerian naira,尼日利亚奈拉,Nigerian naira,₦,Nigeria,2,",",.
+KP,KPW,North Korean Won,朝鲜元,North Korean Won,₩,North Korea,2,",",.
+MK,MKD,Denar,马其顿第纳尔,Denar,ден,North Macedonia,2,.,","
+NO,NOK,Norwegian Krone,挪威克朗,Norwegian Krone,kr,Norway,2, ,","
+OM,OMR,Omani rial,阿曼里亚尔,Omani rial,ريال,Oman,3,",",.
+PK,PKR,Pakistani rupee,巴基斯坦卢比,Pakistani rupee,₨,Pakistan,2,",",.
+PW,USD,US Dollar,美元,US Dollar,$,Palau,2,",",.
+PS,ILS,Israeli new shekel,以色列新谢克尔,Israeli new shekel,₪,Palestine,2,",",.
+PA,PAB,Panamanian balboa,巴拿马巴波亚,Panamanian balboa,B/.,Panama,2,",",.
+PA,USD,US Dollar,美元,US Dollar,$,Panama,2,",",.
+PG,PGK,Papua New Guinean kina,巴布亚新几内亚基那,Papua New Guinean kina,K,Papua New Guinea,2,",",.
+PY,PYG,Paraguayan guarani,巴拉圭瓜拉尼,Paraguayan guarani,₲,Paraguay,0,.,","
+PE,PEN,Peruvian sol,秘鲁索尔,Peruvian sol,S/,Peru,2,",",.
+PH,PHP,Philippine peso,菲律宾比索,Philippine peso,₱,Philippines,2,",",.
+PL,PLN,Polish złoty,波兰兹罗提,Polish złoty,zł,Poland,2, ,","
+PT,EUR,Euro,欧元,Euro,€,Portugal,2,.,","
+QA,QAR,Qatari riyal,卡塔尔里亚尔,Qatari riyal,ر.ق,Qatar,2,",",.
+RO,RON,Romanian leu,罗马尼亚列伊,Romanian leu,L,Romania,2,.,","
+RU,RUB,Russian ruble,俄罗斯卢布,Russian ruble,₽,Russia,2, ,","
+RW,RWF,Rwandan franc,卢旺达法郎,Rwandan franc,FRw,Rwanda,0,",",.
+KN,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Saint Kitts and Nevis,2,",",.
+LC,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Saint Lucia,2,",",.
+VC,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Saint Vincent,2,",",.
+WS,WST,Samoan tālā,萨摩亚塔拉,Samoan tālā,WS$,Samoa,2,",",.
+SM,EUR,Euro,欧元,Euro,€,San Marino,2,.,","
+ST,STN,São Tomé and Príncipe Dobra,圣多美和普林西比多布拉,São Tomé and Príncipe Dobra,Db,Sao Tome and Principe,2,",",.
+ST,STD,Dobra,圣多美和普林西比多布拉 (1977–2017),Dobra,Db,Sao Tome and Principe,2,",",.
+SA,SAR,Saudi riyal,沙特里亚尔,Saudi riyal,ر.س,Saudi Arabia,2,",",.
+SN,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Senegal,0,",",.
+RS,RSD,Serbian dinar,塞尔维亚第纳尔,Serbian dinar,дин,Serbia,2,.,","
+SC,SCR,Seychellois rupee,塞舌尔卢比,Seychellois rupee,₨,Seychelles,2,",",.
+SL,SLL,Sierra Leonean leone,塞拉利昂利昂,Sierra Leonean leone,Le,Sierra Leone,2,",",.
+SG,SGD,Singapore dollar,新加坡元,Singapore dollar,$,Singapore,2,",",.
+SK,EUR,Euro,欧元,Euro,€,Slovakia,2, ,","
+SI,EUR,Euro,欧元,Euro,€,Slovenia,2,.,","
+SB,SBD,Solomon Islands dollar,所罗门群岛元,Solomon Islands dollar,$,Solomon Islands,2,",",.
+SO,SOS,Somali shilling,索马里先令,Somali shilling,Sh.So.,Somalia,2,",",.
+ZA,ZAR,South African rand,南非兰特,South African rand,R,South Africa,2, ,.
+KR,KRW,Won,韩元,Won,₩,South Korea,0,",",.
+SS,SSP,South Sudanese pound,南苏丹镑,South Sudanese pound,£,South Sudan,2,",",.
+ES,EUR,Euro,欧元,Euro,€,Spain,2,.,","
+LK,LKR,Sri Lankan rupee,斯里兰卡卢比,Sri Lankan rupee,₨,Sri Lanka,2,",",.
+SD,SDG,Sudanese pound,苏丹镑,Sudanese pound,ج.س.,Sudan,2,",",.
+SR,SRD,Surinamese dollar,苏里南元,Surinamese dollar,$,Suriname,2,.,","
+SE,SEK,Swedish krona,瑞典克朗,Swedish krona,kr,Sweden,2, ,","
+CH,CHF,Swiss franc,瑞士法郎,Swiss franc,Fr,Switzerland,2,',.
+SY,SYP,Syrian pound,叙利亚镑,Syrian pound,LS,Syria,2,",",.
+TW,TWD,New Taiwan dollar,新台币,New Taiwan dollar,$,Taiwan,2,",",.
+TJ,TJS,Tajikistani somoni,塔吉克斯坦索莫尼,Tajikistani somoni,SM,Tajikistan,2, ,","
+TZ,TZS,Tanzanian shilling,坦桑尼亚先令,Tanzanian shilling,Sh,Tanzania,2,",",.
+TH,THB,Thai baht,泰铢,Thai baht,฿,Thailand,2,",",.
+TL,USD,US Dollar,美元,US Dollar,$,Timor-Leste,2,",",.
+TG,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Togo,0,",",.
+TO,TOP,Tongan paʻanga,汤加潘加,Tongan paʻanga,T$,Tonga,2,",",.
+TT,TTD,Trinidad and Tobago dollar,特立尼达和多巴哥元,Trinidad and Tobago dollar,$,Trinidad and Tobago,2,",",.
+TN,TND,Tunisian dinar,突尼斯第纳尔,Tunisian dinar,د.ت,Tunisia,3,",",.
+TR,TRY,Turkish lira,土耳其里拉,Turkish lira,₺,Turkey,2,.,","
+TM,TMT,Turkmenistan manat,土库曼斯坦马纳特,Turkmenistan manat,T,Turkmenistan,2, ,","
+TV,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Tuvalu,2,",",.
+UG,UGX,Ugandan shilling,乌干达先令,Ugandan shilling,USh,Uganda,0,",",.
+UA,UAH,Ukrainian hryvnia,乌克兰格里夫纳,Ukrainian hryvnia,₴,Ukraine,2, ,","
+AE,AED,United Arab Emirates dirham,阿联酋迪拉姆,United Arab Emirates dirham,د.إ,United Arab Emirates,2,",",.
+GB,GBP,British pound,英镑,British pound,£,United Kingdom,2,",",.
+US,USD,US Dollar,美元,US Dollar,$,United States,2,",",.
+UY,UYU,Uruguayan peso,乌拉圭比索,Uruguayan peso,$,Uruguay,2,.,","
+UZ,UZS,Uzbekistani soʻm,乌兹别克斯坦苏姆,Uzbekistani soʻm,UZS,Uzbekistan,2, ,","
+VU,VUV,Vanuatu vatu,瓦努阿图瓦图,Vanuatu vatu,VT,Vanuatu,0,",",.
+VA,EUR,Euro,欧元,Euro,€,Vatican City,2,.,","
+VE,VES,Venezuelan Bolívar Soberano,委内瑞拉主权玻利瓦尔,Venezuelan Bolívar Soberano,Bs.,Venezuela,2,.,","
+VE,VEF,Bolívar,委内瑞拉玻利瓦尔 (2008–2018),Bolívar,Bs.,Venezuela,2,.,","
+VN,VND,Vietnamese đồng,越南盾,Vietnamese đồng,₫,Vietnam,0,",",.
+YE,YER,Yemeni rial,也门里亚尔,Yemeni rial,﷼,Yemen,2,",",.
+ZM,ZMW,Zambian kwacha,赞比亚克瓦查,Zambian kwacha,ZK,Zambia,2,",",.
+ZW,USD,US Dollar,美元,US Dollar,$,Zimbabwe,2,",",.
+ZW,ZWL,Zimbabwe Dollar,津巴布韦元 (2009),Zimbabwe Dollar,Z$,Zimbabwe,2,",",.
+XK,EUR,Euro,欧元,Euro,€,Kosovo,2,",",.
+TS,PRB,Transnistrian Ruble,德涅斯特河沿岸卢布,Transnistrian Ruble,р.,Transnistria,2,",",.
+XS,SLSH,Somaliland Shilling,塞拉利昂利昂,Somaliland Shilling,Sl,Somaliland,2,",",.
+OS,RUB,Russian ruble,俄罗斯卢布,Russian ruble,₽,South Ossetia,2,",",.
+AB,RUB,Russian ruble,俄罗斯卢布,Russian ruble,₽,Abkhazia,2,",",.
+CT,TRY,Turkish lira,土耳其里拉,Turkish lira,₺,Northern Cyprus,2,",",.
+NK,AMD,Armenian dram,亚美尼亚德拉姆,Armenian dram,֏,Nagorno-Karabakh,2,",",.
+AS,USD,US Dollar,美元,US Dollar,$,American Samoa,2,",",.
+AI,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Anguilla,2,",",.
+AW,AWG,Aruban florin,阿鲁巴弗罗林,Aruban florin,ƒ,Aruba,2,",",.
+BM,BMD,Bermudian dollar,百慕大元,Bermudian dollar,$,Bermuda,2,",",.
+BV,NOK,Norwegian Krone,挪威克朗,Norwegian Krone,kr,Bouvet Island,2,",",.
+IO,USD,US Dollar,美元,US Dollar,$,British Indian Ocean Territory,2,",",.
+VG,USD,US Dollar,美元,US Dollar,$,British Virgin Islands,2,",",.
+KY,KYD,Cayman Islands dollar,开曼元,Cayman Islands dollar,$,Cayman Islands,2,",",.
+CX,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Christmas Island,2,",",.
+CC,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Cocos Islands,2,",",.
+CK,NZD,Cook Islands dollar,新西兰元,Cook Islands dollar,$,Cook Islands,2,",",.
+CW,ANG,Netherlands Antillean guilder,荷属安的列斯盾,Netherlands Antillean guilder,ƒ,Curacao,2,",",.
+FK,FKP,Falkland Islands pound,福克兰群岛镑,Falkland Islands pound,£,Falkland Islands,2,",",.
+FO,DKK,Danish krone,丹麦克朗,Danish krone,kr,Faroe Islands,2,",",.
+GF,EUR,Euro,欧元,Euro,€,French Guiana,2,",",.
+PF,XPF,CFP franc,太平洋法郎,CFP franc,Fr,French Polynesia,0,",",.
+TF,EUR,Euro,欧元,Euro,€,French Southern Territories,2,",",.
+GI,GIP,Gibraltar pound,直布罗陀镑,Gibraltar pound,£,Gibraltar,2,",",.
+GL,DKK,Danish krone,丹麦克朗,Danish krone,kr,Greenland,2,",",.
+GP,EUR,Euro,欧元,Euro,€,Guadeloupe,2,",",.
+GU,USD,US Dollar,美元,US Dollar,$,Guam,2,",",.
+HK,HKD,Hong Kong dollar,港元,Hong Kong dollar,$,Hong Kong,2,",",.
+MO,MOP,Macanese pataca,澳门币,Macanese pataca,P.,Macao,2,",",.
+MQ,EUR,Euro,欧元,Euro,€,Martinique,2,",",.
+YT,EUR,Euro,欧元,Euro,€,Mayotte,2,",",.
+MS,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Montserrat,2,",",.
+NC,XPF,CFP franc,太平洋法郎,CFP franc,Fr,New Caledonia,0,",",.
+NU,NZD,Cook Islands dollar,新西兰元,Cook Islands dollar,$,Niue,2,",",.
+NF,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Norfolk Island,2,",",.
+MP,USD,US Dollar,美元,US Dollar,$,Northern Mariana Islands,2,",",.
+PN,NZD,Cook Islands dollar,新西兰元,Cook Islands dollar,$,Pitcairn,2,",",.
+PR,USD,US Dollar,美元,US Dollar,$,Puerto Rico,2,",",.
+RE,EUR,Euro,欧元,Euro,€,Reunion,2,",",.
+BL,EUR,Euro,欧元,Euro,€,Saint Barthelemy,2,",",.
+SH,SHP,Saint Helena pound,圣赫勒拿群岛磅,Saint Helena pound,£,Saint Helena,2,",",.
+MF,EUR,Euro,欧元,Euro,€,Saint Martin,2,",",.
+PM,EUR,Euro,欧元,Euro,€,Saint Pierre and Miquelon,2,",",.
+SX,ANG,Netherlands Antillean guilder,荷属安的列斯盾,Netherlands Antillean guilder,ƒ,Sint Maarten,2,",",.
+TK,NZD,Cook Islands dollar,新西兰元,Cook Islands dollar,$,Tokelau,2,",",.
+VI,USD,US Dollar,美元,US Dollar,$,U.S. Virgin Islands,2,",",.
