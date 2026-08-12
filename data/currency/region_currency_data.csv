@@ -202,13 +202,6 @@ YE,YER,Yemeni rial,也门里亚尔,Yemeni rial,﷼,Yemen,2,",",.
 ZM,ZMW,Zambian kwacha,赞比亚克瓦查,Zambian kwacha,ZK,Zambia,2,",",.
 ZW,USD,US Dollar,美元,US Dollar,$,Zimbabwe,2,",",.
 ZW,ZWL,Zimbabwe Dollar,津巴布韦元 (2009),Zimbabwe Dollar,Z$,Zimbabwe,2,",",.
-XK,EUR,Euro,欧元,Euro,€,Kosovo,2,",",.
-TS,PRB,Transnistrian Ruble,德涅斯特河沿岸卢布,Transnistrian Ruble,р.,Transnistria,2,",",.
-XS,SLSH,Somaliland Shilling,塞拉利昂利昂,Somaliland Shilling,Sl,Somaliland,2,",",.
-OS,RUB,Russian ruble,俄罗斯卢布,Russian ruble,₽,South Ossetia,2,",",.
-AB,RUB,Russian ruble,俄罗斯卢布,Russian ruble,₽,Abkhazia,2,",",.
-CT,TRY,Turkish lira,土耳其里拉,Turkish lira,₺,Northern Cyprus,2,",",.
-NK,AMD,Armenian dram,亚美尼亚德拉姆,Armenian dram,֏,Nagorno-Karabakh,2,",",.
 AS,USD,US Dollar,美元,US Dollar,$,American Samoa,2,",",.
 AI,XCD,East Caribbean dollar,东加勒比元,East Caribbean dollar,$,Anguilla,2,",",.
 AW,AWG,Aruban florin,阿鲁巴弗罗林,Aruban florin,ƒ,Aruba,2,",",.
@@ -249,3 +242,20 @@ PM,EUR,Euro,欧元,Euro,€,Saint Pierre and Miquelon,2,",",.
 SX,ANG,Netherlands Antillean guilder,荷属安的列斯盾,Netherlands Antillean guilder,ƒ,Sint Maarten,2,",",.
 TK,NZD,Cook Islands dollar,新西兰元,Cook Islands dollar,$,Tokelau,2,",",.
 VI,USD,US Dollar,美元,US Dollar,$,U.S. Virgin Islands,2,",",.
+AQ,USD,US Dollar,美元,US Dollar,$,Antarctica,2,",",.
+AQ,AAD,Antarctican dollar,,Antarctican dollar,$,Antarctica,2,",",.
+AX,EUR,Euro,欧元,Euro,€,Åland Islands,2,",",.
+BQ,USD,US Dollar,美元,US Dollar,$,"Bonaire, Sint Eustatius and Saba",2,",",.
+CG,XAF,Central African CFA franc,中非法郎,Central African CFA franc,FCFA,Congo,2,",",.
+CI,XOF,West African CFA franc,西非法郎,West African CFA franc,CFA,Côte d'Ivoire,2,",",.
+EH,MAD,Moroccan Dirham,摩洛哥迪拉姆,Moroccan Dirham,د.م.,Western Sahara,2,",",.
+GG,GBP,British pound,英镑,British pound,£,Guernsey,2,",",.
+GS,GBP,British pound,英镑,British pound,£,South Georgia and the South Sandwich Islands,2,",",.
+HM,AUD,Australian dollar,澳大利亚元,Australian dollar,$,Heard Island and McDonald Islands,2,",",.
+IM,GBP,British pound,英镑,British pound,£,Isle of Man,2,",",.
+JE,GBP,British pound,英镑,British pound,£,Jersey,2,",",.
+SJ,NOK,Norwegian Krone,挪威克朗,Norwegian Krone,kr,Svalbard and Jan Mayen,2,",",.
+SZ,SZL,Lilangeni,斯威士兰里兰吉尼,Lilangeni,E,Eswatini,2,",",.
+TC,USD,US Dollar,美元,US Dollar,$,Turks and Caicos Islands,2,",",.
+UM,USD,US Dollar,美元,US Dollar,$,U.S. Minor Outlying Islands,2,",",.
+WF,XPF,CFP franc,太平洋法郎,CFP franc,Fr,Wallis and Futuna,2,",",.

@@ -2,7 +2,7 @@
 
 [English](README.en.md) | [中文](README.md)
 
-A comprehensive toolkit for generating SQL data for country/region internationalization (i18n). Built on the ISO 3166 standard, it provides country/region information, currency data, language data, and multi-language country names for 250+ countries worldwide, with automatic translation support for 80+ languages via the Google Translate API.
+A comprehensive toolkit for generating SQL data for country/region internationalization (i18n). Built on the ISO 3166-1 standard, it provides country/region information, currency data, language data, and multi-language country names for 250+ countries worldwide, with automatic translation support for 80+ languages via the Google Translate API.
 
 ## Features
 

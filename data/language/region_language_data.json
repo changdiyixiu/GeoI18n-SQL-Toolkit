@@ -2037,20 +2037,6 @@
     "language_en_name": "English"
   },
   {
-    "iso2": "XK",
-    "language_code": "sr",
-    "native_language_name": "Српски",
-    "language_zh_name": "塞尔维亚语",
-    "language_en_name": "Serbian"
-  },
-  {
-    "iso2": "XK",
-    "language_code": "sq",
-    "native_language_name": "Shqip",
-    "language_zh_name": "阿尔巴尼亚语",
-    "language_en_name": "Albanian"
-  },
-  {
     "iso2": "AS",
     "language_code": "sm",
     "native_language_name": "Gagana Samoa",
@@ -2436,45 +2422,143 @@
     "language_en_name": "English"
   },
   {
-    "iso2": "TS",
-    "language_code": "ru",
-    "native_language_name": "Русский",
-    "language_zh_name": "俄语",
-    "language_en_name": "Russian"
+    "iso2": "AX",
+    "language_code": "sv",
+    "native_language_name": "Svenska",
+    "language_zh_name": "瑞典语",
+    "language_en_name": "Swedish"
   },
   {
-    "iso2": "XS",
-    "language_code": "so",
-    "native_language_name": "Soomaaliga",
-    "language_zh_name": "索马里语",
-    "language_en_name": "Somalia"
+    "iso2": "BQ",
+    "language_code": "nl",
+    "native_language_name": "Nederlands",
+    "language_zh_name": "荷兰语",
+    "language_en_name": "Dutch"
   },
   {
-    "iso2": "OS",
-    "language_code": "ru",
-    "native_language_name": "Русский",
-    "language_zh_name": "俄语",
-    "language_en_name": "Russian"
+    "iso2": "CG",
+    "language_code": "ln",
+    "native_language_name": "Lingála",
+    "language_zh_name": "林加拉语",
+    "language_en_name": "Lingala"
   },
   {
-    "iso2": "AB",
-    "language_code": "ru",
-    "native_language_name": "Русский",
-    "language_zh_name": "俄语",
-    "language_en_name": "Russian"
+    "iso2": "CG",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
   },
   {
-    "iso2": "CT",
-    "language_code": "tr",
-    "native_language_name": "Türkçe",
-    "language_zh_name": "土耳其语",
-    "language_en_name": "Turkish"
+    "iso2": "CI",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
   },
   {
-    "iso2": "NK",
-    "language_code": "ru",
-    "native_language_name": "Русский",
-    "language_zh_name": "俄语",
-    "language_en_name": "Russian"
+    "iso2": "EH",
+    "language_code": "es",
+    "native_language_name": "Español",
+    "language_zh_name": "西班牙语、卡斯提语",
+    "language_en_name": "Spanish"
+  },
+  {
+    "iso2": "GG",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "GG",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "GS",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "HM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "IM",
+    "language_code": "gv",
+    "native_language_name": "Gaelg",
+    "language_zh_name": "马恩岛语",
+    "language_en_name": "Manx"
+  },
+  {
+    "iso2": "IM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "JE",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "JE",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
+  },
+  {
+    "iso2": "SJ",
+    "language_code": "no",
+    "native_language_name": "Norsk",
+    "language_zh_name": "挪威语",
+    "language_en_name": "Norwegian"
+  },
+  {
+    "iso2": "SZ",
+    "language_code": "ss",
+    "native_language_name": "SiSwati",
+    "language_zh_name": "斯瓦特语",
+    "language_en_name": "Swati"
+  },
+  {
+    "iso2": "SZ",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "TC",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "UM",
+    "language_code": "en",
+    "native_language_name": "English",
+    "language_zh_name": "英语",
+    "language_en_name": "English"
+  },
+  {
+    "iso2": "WF",
+    "language_code": "fr",
+    "native_language_name": "Français",
+    "language_zh_name": "法语",
+    "language_en_name": "French"
   }
 ]

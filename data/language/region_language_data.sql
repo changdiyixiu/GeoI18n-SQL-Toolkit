@@ -1,7 +1,8 @@
 -- ====================================================
 -- 数据表: region_language_data
 -- 数据来源: https://en.wikipedia.org/wiki/ISO_639-1
--- 共 354 条记录
+-- 共 366 条记录
+-- git地址：https://github.com/changdiyixiu/GeoI18n-SQL-Toolkit
 -- ====================================================
 DROP TABLE if EXISTS `region_language_data`;
 CREATE TABLE IF NOT EXISTS `region_language_data` (
@@ -312,8 +313,6 @@ INSERT INTO `region_language_data` (
 ('ZW', 'sn', 'chiShona', '修纳语', 'Shona'),
 ('ZW', 'nd', 'Sindebele', '北恩德贝勒语', 'North Ndebele'),
 ('ZW', 'en', 'English', '英语', 'English'),
-('XK', 'sr', 'Српски', '塞尔维亚语', 'Serbian'),
-('XK', 'sq', 'Shqip', '阿尔巴尼亚语', 'Albanian'),
 ('AS', 'sm', 'Gagana Samoa', '萨摩亚语', 'Samoan'),
 ('AS', 'en', 'English', '英语', 'English'),
 ('AI', 'en', 'English', '英语', 'English'),
@@ -369,9 +368,23 @@ INSERT INTO `region_language_data` (
 ('SX', 'en', 'English', '英语', 'English'),
 ('TK', 'en', 'English', '英语', 'English'),
 ('VI', 'en', 'English', '英语', 'English'),
-('TS', 'ru', 'Русский', '俄语', 'Russian'),
-('XS', 'so', 'Soomaaliga', '索马里语', 'Somalia'),
-('OS', 'ru', 'Русский', '俄语', 'Russian'),
-('AB', 'ru', 'Русский', '俄语', 'Russian'),
-('CT', 'tr', 'Türkçe', '土耳其语', 'Turkish'),
-('NK', 'ru', 'Русский', '俄语', 'Russian');
+('AX', 'sv', 'Svenska', '瑞典语', 'Swedish'),
+('BQ', 'nl', 'Nederlands', '荷兰语', 'Dutch'),
+('CG', 'ln', 'Lingála', '林加拉语', 'Lingala'),
+('CG', 'fr', 'Français', '法语', 'French'),
+('CI', 'fr', 'Français', '法语', 'French'),
+('EH', 'es', 'Español', '西班牙语、卡斯提语', 'Spanish'),
+('GG', 'en', 'English', '英语', 'English'),
+('GG', 'fr', 'Français', '法语', 'French'),
+('GS', 'en', 'English', '英语', 'English'),
+('HM', 'en', 'English', '英语', 'English'),
+('IM', 'gv', 'Gaelg', '马恩岛语', 'Manx'),
+('IM', 'en', 'English', '英语', 'English'),
+('JE', 'en', 'English', '英语', 'English'),
+('JE', 'fr', 'Français', '法语', 'French'),
+('SJ', 'no', 'Norsk', '挪威语', 'Norwegian'),
+('SZ', 'ss', 'SiSwati', '斯瓦特语', 'Swati'),
+('SZ', 'en', 'English', '英语', 'English'),
+('TC', 'en', 'English', '英语', 'English'),
+('UM', 'en', 'English', '英语', 'English'),
+('WF', 'fr', 'Français', '法语', 'French');
