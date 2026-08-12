@@ -4,7 +4,7 @@
 -- 共 250 条记录
 -- git地址：https://github.com/changdiyixiu/GeoI18n-SQL-Toolkit
 -- ====================================================
-
+DROP TABLE if EXISTS `region_currency_data`;
 CREATE TABLE IF NOT EXISTS `region_currency_data` (
     `iso2` CHAR(2) NOT NULL COMMENT 'ISO 3166-1 alpha-2 国家代码',
     `currency_code` VARCHAR(20) NOT NULL COMMENT 'ISO 4217 货币代码',

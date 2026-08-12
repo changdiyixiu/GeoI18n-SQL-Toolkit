@@ -3,7 +3,7 @@
 -- 数据来源: https://en.wikipedia.org/wiki/ISO_639-1
 -- 共 354 条记录
 -- ====================================================
-
+DROP TABLE if EXISTS `region_language_data`;
 CREATE TABLE IF NOT EXISTS `region_language_data` (
     `iso2` CHAR(2) NOT NULL COMMENT 'ISO 3166-1 alpha-2 国家代码',
     `language_code` CHAR(2) NOT NULL COMMENT 'ISO 639-1 语言代码',

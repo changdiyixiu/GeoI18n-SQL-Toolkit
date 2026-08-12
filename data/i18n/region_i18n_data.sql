@@ -3,7 +3,7 @@
 -- 数据来源: 谷歌在线翻译API
 -- 共 2796 条记录
 -- ====================================================
-
+DROP TABLE if EXISTS `region_i18n_data`;
 CREATE TABLE IF NOT EXISTS `region_i18n_data` (
     `iso2` CHAR(2) NOT NULL COMMENT 'ISO 3166-1 alpha-2 国家代码',
     `language` VARCHAR(10) NOT NULL COMMENT 'ISO 639-1 语言代码',
